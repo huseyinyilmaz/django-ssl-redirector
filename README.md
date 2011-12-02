@@ -1,5 +1,5 @@
 # django-sslredirector
-A simple django application that controls http/https statuses of different views. 
+A simple django application that manages http/https statuses of different views.  
 
 ## Installation
 
