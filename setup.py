@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
 
-VERSION = '0.1.a1'
+VERSION = '0.1.a2'
 DESCRIPTION = """\
 A simple django application that manages http/https statuses of different views.
 """
@@ -10,9 +10,9 @@ setup(
     name='django-sslredirector',
     version=VERSION,
     description=DESCRIPTION,
-    url='https://github.com/huseyinyilmaz/django-sslredirector',
+    url='https://bitbucket.org/yilmazhuseyin/django-sslredirector',
     author='Huseyin Yilmaz',
-    author_email='contact@yilmazhuseyin.com',
+    author_email='me@yilmazhuseyin.com',
     packages=find_packages(),
     include_package_data=True,
     license='GPLv3',
