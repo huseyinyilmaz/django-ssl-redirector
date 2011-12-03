@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
 
-VERSION = '0.1.a2'
+VERSION = '0.1.b1'
 DESCRIPTION = """\
 A simple django application that manages http/https statuses of different views.
 """
